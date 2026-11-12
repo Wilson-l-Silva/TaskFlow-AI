@@ -14,6 +14,9 @@ O **TaskFlow AI** é uma aplicação de gerenciamento de tarefas que
 combina recursos tradicionais de produtividade com funcionalidades
 baseadas em Inteligência Artificial.
 
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/5efcd92c-1ae7-4da9-bff5-e5a2a5a3a0ca" />
+
+
 A proposta é permitir que usuários cadastrem, organizem e acompanhem
 tarefas, enquanto um serviço baseado em LLM (*Large Language Model*)
 auxilia na interpretação de descrições, sugestão de categorias,
